@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## TheVig.Org: Home
 
-You can use the [editor on GitHub](https://github.com/thevigg/thevigg.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Reading
+2. Restaurants
+3. Travel
+4. Twitter
 
 ### Markdown
 
